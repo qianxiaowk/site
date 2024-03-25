@@ -70,7 +70,7 @@ sections:
           date_start: '2020-01-01'
           date_end: ''
           description: |2-
-            Responsibilities include:
+              Responsibilities include:
 
               * Analysing
               * Modelling
