@@ -39,7 +39,7 @@ publication_short: ""
 abstract: Nucleation in the free troposphere (FT) and subsequent growth of new particles represent a globally important source of cloud condensation nuclei (CCN). Whereas new particle formation (NPF) has been shown to occur frequently in the upper troposphere over tropical oceans, there have been few studies of NPF at lower altitudes. In addition, the impact of urban emissions and biomass burning on the NPF in tropical marine FT remains poorly understood. In this study, we examine NPF in the lower and mid-troposphere (3–8.5 km) over the tropical ocean and coastal region using airborne measurements during the recent Cloud, Aerosol and Monsoon Processes Philippines Experiment (CAMP2Ex). NPF was mostly observed above 5.5 km and coincided with elevated relative humidity (RH) and reduced condensation sink (CS), suggesting that NPF occurs in convective cloud outflow. The frequency of NPF increases with altitude, reaching ∼ 50 % above 8 km. An abrupt decrease in NPF frequency coincides with early monsoon transition and is attributed to increased CS resulting from reduced convective activity and more frequent transport of aged urban plumes. Surprisingly, a large fraction of NPF events in background air were observed in the early morning, and the NPF is likely made possible by very low CS despite low actinic flux. Convectively detrained biomass-burning plumes and fresh urban emissions enhance NPF as a result of elevated precursor concentrations and scavenging of pre-existing particles. In contrast, NPF is suppressed in aged urban plumes where the reactive precursors are mostly consumed, while CS remains relatively high. This study shows a strong impact of urban and biomass-burning emissions on the NPF in tropical marine FT. The results also illustrate the competing influences of different variables and interactions among anthropogenic emissions, convective clouds, and meteorology, which lead to NPF under a variety of conditions in tropical marine environments.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -79,12 +79,12 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

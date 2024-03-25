@@ -1,5 +1,5 @@
 ---
-title: "New particle formation in the tropical free troposphere during CAMP2Ex: statistics and impact of emission sources, convective activity, and synoptic conditions"
+title: "The Coupling Between Tropical Meteorology, Aerosol Lifecycle, Convection, and Radiation during the Cloud, Aerosol and Monsoon Processes Philippines Experiment (CAMP 2 Ex)"
 authors:
 - JS Reid
 - HB Maring
@@ -80,8 +80,8 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2023-09-06T00:00:00Z"
-doi: "https://doi.org/10.5194/acp-23-9853-2023"
+date: "2023-06-01T00:00:00Z"
+doi: "https://doi.org/10.1175/BAMS-D-21-0285.1"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -92,13 +92,13 @@ doi: "https://doi.org/10.5194/acp-23-9853-2023"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Atmospheric Chemistry and Physics, 23*(17)"
+publication: "*Bulletin of the American Meteorological Society, 104*(6)"
 publication_short: ""
 
-abstract: Nucleation in the free troposphere (FT) and subsequent growth of new particles represent a globally important source of cloud condensation nuclei (CCN). Whereas new particle formation (NPF) has been shown to occur frequently in the upper troposphere over tropical oceans, there have been few studies of NPF at lower altitudes. In addition, the impact of urban emissions and biomass burning on the NPF in tropical marine FT remains poorly understood. In this study, we examine NPF in the lower and mid-troposphere (3–8.5 km) over the tropical ocean and coastal region using airborne measurements during the recent Cloud, Aerosol and Monsoon Processes Philippines Experiment (CAMP2Ex). NPF was mostly observed above 5.5 km and coincided with elevated relative humidity (RH) and reduced condensation sink (CS), suggesting that NPF occurs in convective cloud outflow. The frequency of NPF increases with altitude, reaching ∼ 50 % above 8 km. An abrupt decrease in NPF frequency coincides with early monsoon transition and is attributed to increased CS resulting from reduced convective activity and more frequent transport of aged urban plumes. Surprisingly, a large fraction of NPF events in background air were observed in the early morning, and the NPF is likely made possible by very low CS despite low actinic flux. Convectively detrained biomass-burning plumes and fresh urban emissions enhance NPF as a result of elevated precursor concentrations and scavenging of pre-existing particles. In contrast, NPF is suppressed in aged urban plumes where the reactive precursors are mostly consumed, while CS remains relatively high. This study shows a strong impact of urban and biomass-burning emissions on the NPF in tropical marine FT. The results also illustrate the competing influences of different variables and interactions among anthropogenic emissions, convective clouds, and meteorology, which lead to NPF under a variety of conditions in tropical marine environments.
+abstract: The NASA Cloud, Aerosol, and Monsoon Processes Philippines Experiment (CAMP2Ex) employed the NASA P-3, Stratton Park Engineering Company (SPEC) Learjet 35, and a host of satellites and surface sensors to characterize the coupling of aerosol processes, cloud physics, and atmospheric radiation within the Maritime Continent’s complex southwest monsoonal environment. Conducted in the late summer of 2019 from Luzon, Philippines, in conjunction with the Office of Naval Research Propagation of Intraseasonal Tropical Oscillations (PISTON) experiment with its R/V Sally Ride stationed in the northwestern tropical Pacific, CAMP2Ex documented diverse biomass burning, industrial and natural aerosol populations, and their interactions with small to congestus convection. The 2019 season exhibited El Niño conditions and associated drought, high biomass burning emissions, and an early monsoon transition allowing for observation of pristine to massively polluted environments as they advected through intricate diurnal mesoscale and radiative environments into the monsoonal trough. CAMP2Ex’s preliminary results indicate 1) increasing aerosol loadings tend to invigorate congestus convection in height and increase liquid water paths; 2) lidar, polarimetry, and geostationary Advanced Himawari Imager remote sensing sensors have skill in quantifying diverse aerosol and cloud properties and their interaction; and 3) high-resolution remote sensing technologies are able to greatly improve our ability to evaluate the radiation budget in complex cloud systems. Through the development of innovative informatics technologies, CAMP2Ex provides a benchmark dataset of an environment of extremes for the study of aerosol, cloud, and radiation processes as well as a crucible for the design of future observing systems.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: xxx
 
 tags:
 - Source Themes
@@ -138,12 +138,12 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
