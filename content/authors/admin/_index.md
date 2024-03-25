@@ -114,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Qian Xiao.df
+I am a fourth-year PhD candidate at the Center for Aerosol Science and Engineering (CASE), WUSTL, supervised by Prof Jian Wang. Prior to this, I obtained a Bsc in Environmental Science and Engineering from Renmin University of China, followed by an MEng in Environmental Science and Engineering at Tsinghua University, China.
 {style="text-align: justify;"}
