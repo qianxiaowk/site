@@ -72,17 +72,17 @@ skills:
     items:
       - name: ''
         description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+        percent: ''
+        icon: ''
+        icon_pack: ''
+      - name: ''
         description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        percent: ''
+        icon: ''
+        icon_pack: ''
+      - name: ''
         description: ''
-        percent: 80
+        percent: ''
         icon: ''
         icon_pack: ''
 
