@@ -107,7 +107,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://journals.ametsoc.org/view/journals/bams/104/6/BAMS-D-21-0285.1.xml?tab_body=abstract-display
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
