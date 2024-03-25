@@ -5,6 +5,19 @@ authors:
 - Jiaoshi Zhang
 - Yang Wang
 - Luke D. Ziemba
+- Ewan Crosbie
+- Edward L. Winstead
+- Claire E. Robinson
+- Joshua P. Digangi
+- Glenn Diskin
+- Jeffrey S. Reid
+- Sebastian Schmidt
+- Armin Sorooshian
+- Miguel Ricardo A. Hilario
+- Sarah Woods
+- Paul Lawson
+- Snorre A. Stamnes
+- Jian Wang
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
