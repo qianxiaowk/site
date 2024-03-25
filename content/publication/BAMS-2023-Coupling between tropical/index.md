@@ -1,23 +1,82 @@
 ---
 title: "New particle formation in the tropical free troposphere during CAMP2Ex: statistics and impact of emission sources, convective activity, and synoptic conditions"
 authors:
+- JS Reid
+- HB Maring
+- GT Narisma
+- S Van Den Heever
+- L Di Girolamo
+- R Ferrare
+- P Lawson
+- GG Mace
+- JB Simpas
+- S Tanelli
+- L Ziemba
+- B Van Diedenhoven
+- R Bruintjes
+- A Bucholtz
+- B Cairns
+- MO Cambaliza
+- G Chen
+- GS Diskin
+- JH Flynn
+- CA Hostetler
+- RE Holz
+- TJ Lang
+- KS Schmidt
+- G Smith
+- A Sorooshian
+- EJ Thompson
+- KL Thornhill
+- C Trepte
+- J Wang
+- S Woods
+- S Yoon
+- M Alexandrov
+- S Alvarez
+- CG Amiot
+- JR Bennett
+- M Brooks
+- SP Burton
+- E Cayanan
+- H Chen
+- A Collow
+- E Crosbie
+- A DaSilva
+- JP DiGangi
+- DD Flagg
+- SW Freeman
+- D Fu
+- E Fukada
+- MRA Hilario
+- Y Hong
+- SM Hristova-Veleva
+- R Kuehn
+- RS Kowch
+- GR Leung
+- J Loveridge
+- K Meyer
+- RM Miller
+- MJ Montes
+- JN Moum
+- A Nenes
+- SW Nesbitt
+- M Norgren
+- EP Nowottnick
+- RM Rauber
+- EA Reid
+- S Rutledge
+- JS Schlosser
+- TT Sekiyama
+- MA Shook
+- GA Sokolowsky
+- SA Stamnes
+- TY Tanaka
+- A Wasilewski
+- P Xian
 - admin
-- Jiaoshi Zhang
-- Yang Wang
-- Luke D. Ziemba
-- Ewan Crosbie
-- Edward L. Winstead
-- Claire E. Robinson
-- Joshua P. Digangi
-- Glenn Diskin
-- Jeffrey S. Reid
-- Sebastian Schmidt
-- Armin Sorooshian
-- Miguel Ricardo A. Hilario
-- Sarah Woods
-- Paul Lawson
-- Snorre A. Stamnes
-- Jian Wang
+- Zhuocan Xu
+- J Zavaleta
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
