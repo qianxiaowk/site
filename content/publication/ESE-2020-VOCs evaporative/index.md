@@ -37,11 +37,11 @@ tags:
 - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S266649841930002X
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+links:
+- name: Full-text
+  url: https://www.sciencedirect.com/science/article/pii/S266649841930002X
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

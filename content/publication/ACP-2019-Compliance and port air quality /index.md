@@ -42,7 +42,7 @@ featured: false
 links:
 - name: Full-text
   url: https://acp.copernicus.org/articles/19/4899/2019/
-url_pdf: https://acp.copernicus.org/articles/19/4899/2019/
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
