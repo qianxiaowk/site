@@ -47,7 +47,7 @@ featured: false
 
 links:
 - name: Full-text
-   url: https://acp.copernicus.org/articles/23/9853/2023/
+  url: https://acp.copernicus.org/articles/23/9853/2023/
 url_pdf: ''
 url_code: ''
 url_dataset: ''
