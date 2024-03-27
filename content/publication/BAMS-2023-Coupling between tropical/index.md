@@ -103,6 +103,7 @@ summary: xxx
 tags:
 - CAMP2Ex
 - NASA
+- Philippines
 featured: false
 
 links:

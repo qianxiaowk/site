@@ -44,6 +44,7 @@ abstract: Nucleation in the free troposphere (FT) and subsequent growth of new p
 tags:
 - CAMP2Ex
 - NASA
+- Philippines
 featured: false
 
 links:
@@ -61,7 +62,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: '(a) Flight tracks during CAMP2Ex colored according to research flight number. (b) Locations of NPF events observed in background, biomass-burning-influenced, and urban-influenced air masses colored by the air mass type.'
   focal_point: ""
   preview_only: false
 
