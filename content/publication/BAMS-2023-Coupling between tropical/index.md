@@ -121,7 +121,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Aerosol and cloud phenomena of the southwest monsoon system. (a) Overview of the monsoonal system from the Maritime Continent through the Philippines to the western Pacific monsoonal trough. (b) A corresponding SNPP VIIRS image to (a) of a typical smoke event (16 Sep 2019) with overlaid Integrated Multi-satellitE Retrievals for GPM-IMERG satellite precipitation rates (Tan et al. 2019; Huffman et al. 2020) and open isopleths of 550-nm smoke aerosol optical depth (AOD) from the Navy Aerosol Analysis and Precision System Reanalysis (NAAPS; Lynch et al. 2016) showing transport of smoke 4,000 km from Borneo into mesoscale convective systems in the monsoonal trough. (c) High Spectral Resolution Lidar 2 (HSRL-2; Burton et al. 2016) aerosol backscatter over the Sulu Sea on this day along the track marked in green on (b); (d) eastward view from cockpit at the southernmost point of (c); (e) convergence line of convection from the same plume over the NWTP the following day (17 Sep 2019); and (f) edge of a nearby MCS terminating the plume (17 Sep 2019). Other aerosol convective feature interactions included (g) coastal convection spawned by a morning land breeze, (h) isolated convective cell with forming cold pool, and (i) congestus in pristine conditions on the very last flight of the mission.'
   focal_point: ""
   preview_only: false
 
