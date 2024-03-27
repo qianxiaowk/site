@@ -27,7 +27,7 @@ doi: "https://doi.org/10.5194/acp-19-4899-2019"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Atmospheric Chemistry and Physics, 19*(1)"
+publication: "*Atmospheric Chemistry and Physics, 19*(1)"
 publication_short: ""
 
 abstract: Vehicle evaporation is an essential source of VOCs in cities but is not well understood in China. Reported emission factors from previous studies are not enough for understanding the atmospheric chemical process of vehicular evaporative VOCs. In this work, a serious of detailed VOCs speciation profiles are developed based on test processes and emission processes. A mass balance method was used to divide different emission processes during diurnal tests. The results show that headspace vapor of gasoline cannot represent the real-world vehicle evaporation because of the significant differences in VOCs speciation profiles, especially for aromatics. To further distinguish emissions from evaporation and exhaust, only the ratios of MTBE/benzene and MTBE/toluene can serve as indicators when considering species from all evaporative processes. Besides, emissions from different sources change significantly with the seasons. To solve these problems, we developed a monthly comprehensive evaporation speciation profile. The individual profiles at the emission processes are weighted by the emission of the in-use vehicle fleet in Beijing to derive the comprehensive speciation profile of evaporative VOCs. Ozone formation potential (OFP) and secondary organic aerosol potential (SOAP) were used to evaluate the environmental impact. For SOAP, 100 ​g evaporative emissions are equal to 6.05–12.71 ​g toluene in different months, much higher than that given using headspace vapors, especially in winter (7.2 times higher in December). These findings would improve our understanding of the evaporative VOCs emissions in China and their environmental impacts (e.g., O3 and SOA formation).
@@ -40,10 +40,9 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
+ - name: "Full-text"
+   url: "https://acp.copernicus.org/articles/19/4899/2019/"
 url_pdf: https://acp.copernicus.org/articles/19/4899/2019/
-url_full-text: https://acp.copernicus.org/articles/19/4899/2019/
 url_code: ''
 url_dataset: ''
 url_poster: ''
