@@ -40,8 +40,8 @@ tags:
 featured: false
 
 # links:
- - name: "Full-text"
-   url: "https://acp.copernicus.org/articles/19/4899/2019/"
+# - name: ""
+#   url: ""
 url_pdf: https://acp.copernicus.org/articles/19/4899/2019/
 url_code: ''
 url_dataset: ''
