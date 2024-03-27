@@ -202,7 +202,7 @@ sections:
 #      view: card
   - block: collection
     id: featured
-content:
+    content:
       title: Recent Publications
       text: |-
         {{% callout note %}}
