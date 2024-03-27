@@ -190,7 +190,7 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
-    id: featured
+    id: ""
     content:
       title: Featured Publications
       filters:
@@ -201,6 +201,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+      id: featured
     content:
       title: Recent Publications
       text: |-
